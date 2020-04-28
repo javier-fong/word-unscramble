@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue&family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/firstPage.css">
+    <link rel="stylesheet" href="css/secondPage.css">
+    <link rel="stylesheet" href="css/thirdPage.css">
+    <link rel="stylesheet" href="css/lastPage.css   ">
+    <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+    <script src="js/app.js"></script>
+    <title>Word-Unscramble</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Word Unscramble</h1>
+        <h3>Rearrange the letters to form a word.</h3>
+        <div class="difficulties">
+            <div class="cards">
+                <div class="face face1 easy">
+                    <div class="content">
+                        <h2>EASY</h2>
+                    </div>
+                </div>
+                <div class="face face2">
+                    <div class="content">
+                        <p>There are 4 letters in easy mode.</p>
+                        <br>
+                        <p>10 questions in total.</p>
+                        <br>
+                        <p>20 seconds for each question.</p>
+                        <button id="easyBtn" data-val="EASY">Confirm</button>
+                    </div>
+                </div>
+            </div>
+            <div class="cards">
+                <div class="face face1 medium">
+                    <div class="content">
+                        <h2>MEDIUM</h2>
+                    </div>
+                </div>
+                <div class="face face2">
+                    <div class="content">
+                        <p>There are 5 letters in medium mode.</p>
+                        <br>
+                        <p>10 questions in total.</p>
+                        <br>
+                        <p>20 seconds for each question.</p>
+                        <button id="mediumBtn" data-val="MEDIUM">Confirm</button>
+                    </div>
+                </div>
+            </div>
+            <div class="cards">
+                <div class="face face1 hard">
+                    <div class="content">
+                        <h2>HARD</h2>
+                    </div>
+                </div>
+                <div class="face face2">
+                    <div class="content">
+                        <p>There are 6 letters in hard mode.</p>
+                        <br>
+                        <p>10 questions in total.</p>
+                        <br>
+                        <p>20 seconds for each question.</p>
+                        <button id="hardBtn" data-val="HARD">Confirm</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

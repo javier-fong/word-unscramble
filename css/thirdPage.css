@@ -1,0 +1,98 @@
+.qnsNumber, .questions {
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.qnsNumber {
+    margin: auto;
+    margin-top: 180px;
+    font-size: 1.3em;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid white;
+    width: 410px;
+}
+
+.questions {
+    font-size: 4em;
+    margin: 20px auto;
+}
+
+input, .inputDiv button, .mainAndSkipBtnDiv button {
+    background: transparent;
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    cursor: pointer;
+    width: 120px;
+    height: 40px;
+    border: 2px solid #00a1ff;
+    border-radius: 24px;
+    transition: 0.25s;
+    letter-spacing: 0.2em;
+    margin: 5px 10px;
+}
+
+.inputDiv button:hover, .mainAndSkipBtnDiv button:hover {
+    background: #00a1ff;
+    box-shadow: 0 0 15px #00a1ff;
+}
+
+input {
+    width: 600px;
+    cursor: text;
+    border: 2px solid #00ff43;
+    margin-left: 265px;
+}
+
+input:hover {
+    width: 650px;
+}
+
+.mainAndSkipBtnDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.mainAndSkipBtnDiv button:nth-child(1) {
+    width: 200px;
+}
+
+.mainAndSkipBtnDiv button:nth-child(2) {
+    border: 2px solid #ff073a;
+}
+
+.mainAndSkipBtnDiv button:nth-child(2):hover {
+    background: #ff073a;
+    box-shadow: 0 0 15px #ff073a;
+}
+
+.solution {
+    text-align: center;
+    font-size: 1.8em;
+    margin-top: 20px;
+    letter-spacing: 0.1em;
+    display: none;
+}
+
+.countdown {
+    position: relative;
+    text-align: center;
+    font-size: 1.3em;
+    letter-spacing: 0.1em;
+}
+
+.timeLeft {
+    margin: auto;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+    width: 150px;
+}
+
+.seconds {
+    margin-top: 10px;
+    font-size: 1.5em;
+    font-family: 'Orbitron', sans-serif;
+}
