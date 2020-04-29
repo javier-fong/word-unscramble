@@ -27,7 +27,7 @@ h3 {
 }
 
 .difficulties {
-    width: 1300px;
+    width: 1650px;
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -61,6 +61,10 @@ h3 {
     border: 1px solid #ff073a;
 }
 
+.insane {
+    border: 1px solid #7d12ff;
+}
+
 .cards:hover .easy{
     background: #00ff43;
     transform: translateY(0);
@@ -75,6 +79,11 @@ h3 {
     background: #ff073a;
     transform: translateY(0);
 }   
+
+.cards:hover .insane{
+    background: #7d12ff;
+    transform: translateY(0);
+}  
 
 .face1 h2 {
     color: #fff;
