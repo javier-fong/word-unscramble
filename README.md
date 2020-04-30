@@ -33,6 +33,7 @@ There are a few functions that can be improved or added upon:
  - By utilizing the username created by the user, a **scoreboard** could be created to keep track of the user's score
  - Further creation of a **ranking system** to rank individual user score
  - Further improvement on the **logic to enable different answers to a single question**, instead of only one answer. This is because there are several cases where different words could be formed using the same letters
+ - Design could be improved to be responsive on all platforms (mobile/tablets/desktop)
 
 ## Wireframes and User Stories
 ### 1. Main Page
@@ -41,7 +42,7 @@ As a player, I want to access the home page so that I could choose my level of d
 <a href="https://i.imgur.com/v5WVcdo.png" target="_blank" ><img src="https://i.imgur.com/v5WVcdo.png" width="50%"></a>
 
 ### 2. Start Game
-As a player, I want to confirm that I have chosen the correct mode that I wanted before starting the game.
+As a player, I want to confirm that I have chosen the correct mode before starting the game.
 
 <a href="https://i.imgur.com/89ucoUV.png" target="_blank" ><img src="https://i.imgur.com/89ucoUV.png" width="50%"></a>
 
