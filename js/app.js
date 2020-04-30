@@ -2,7 +2,7 @@ let answer;
 let count = 1;
 let score = 0;
 let timer = 20;
-let timer_Insane = 100;
+let timer_Insane = 180;
 let wordsArray = [];
 
 // Get random words from the array
