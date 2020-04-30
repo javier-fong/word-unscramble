@@ -44,14 +44,14 @@ As a player, I want to access the home page so that I could choose my level of d
 ### 2. Start Game
 As a player, I want to confirm that I have chosen the correct mode before starting the game.
 
-<a href="https://i.imgur.com/89ucoUV.png" target="_blank" ><img src="https://i.imgur.com/89ucoUV.png" width="50%"></a>
+<a href="https://i.imgur.com/2aaKDoT.png" target="_blank" ><img src="https://i.imgur.com/2aaKDoT.png" width="50%"></a>
 
 ### 3. Play Game
 As a player, I want to guess the correct word so that I can move on to the next question, otherwise I will skip the question.
 
-<a href="https://i.imgur.com/7EVeftX.png" target="_blank" ><img src="https://i.imgur.com/7EVeftX.png" width="50%"></a>
+<a href="https://i.imgur.com/ux42TCi.png" target="_blank" ><img src="https://i.imgur.com/ux42TCi.png" width="50%"></a>
 
 ### 4. Game Over
 As a player, I want to see when the game is over so that I could see how many words I have entered correctly.
 
-<a href="https://i.imgur.com/1syAI8G.png" target="_blank" ><img src="https://i.imgur.com/1syAI8G.png" width="50%"></a>
+<a href="https://i.imgur.com/9ncNlKp.png" target="_blank" ><img src="https://i.imgur.com/9ncNlKp.png" width="50%"></a>
