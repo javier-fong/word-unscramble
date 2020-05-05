@@ -32,6 +32,7 @@ There are a few functions that can be improved or added upon:
  - Adding a **user registration and login page**, so that user is able to create a username
  - By utilizing the username created by the user, a **scoreboard** could be created to keep track of the user's score
  - Further creation of a **ranking system** to rank individual user score
+ - **Limit the number of solutions** that could be displayed according to the difficulty chosen
  - Further improvement on the **logic to enable different answers to a single question**, instead of only one answer. This is because there are several cases where different words could be formed using the same letters
  - Design could be improved to be responsive on all platforms (mobile/tablets/desktop)
 
