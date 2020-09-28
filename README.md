@@ -11,7 +11,7 @@ The game could serve as an educational purpose as well, as user could learn new 
  - [Wireframes and User Stories](#wireframes-and-user-stories)
 
 ## Project Demo
-**Word Unscramble** is available to try on [https://redgreenblues.github.io/word-unscramble/]()
+**Word Unscramble** is available to try on [https://javier-fong.github.io/word-unscramble/]()
 
 ## Technologies Used
 These technologies were used to create **Word Unscramble**:
